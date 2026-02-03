@@ -1,4 +1,4 @@
-# CodeIgniter 4 Framework Imey SMKS Al - Ma'mun Sumedang
+# CodeIgniter 4 Framework Imey sitiSMKS Al - Ma'mun Sumedang
 
 ## What is CodeIgniter?
 
